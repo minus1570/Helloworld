@@ -27,12 +27,33 @@
     <ClCompile Include="main4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="main5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main8.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main9.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main10.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CirlcleClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="헤더.h">
+    <ClInclude Include="Employeestruct.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Employeestruct.h">
+    <ClInclude Include="CircleClass.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>

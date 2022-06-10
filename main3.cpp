@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 using namespace std;
 
@@ -18,7 +18,7 @@ int main()
 	float somefloat;
 	double somedouble;
 
-	someinteger++; // 257
+	someinteger++; // 257 ++은 1을 더한것
 	someinteger *= 2; //514
 	someshort = static_cast<short>(someinteger);//514
 	somelong = someshort * 10000;//5140000

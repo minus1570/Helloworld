@@ -1,12 +1,13 @@
-#include <iostream>
+
+/*#include <iostream>
 #include "Employeestruct.h"
 using namespace std;
 
 enum piecetype1 {
 	piecetypeking = 1, 
-	piecetypequeen, 
+	piecetypequeen, 2∞° µ 
 	piecetyperook = 10, 
-	piecetypepawn 
+	piecetypepawn  11¿Ã µ 
 };
 
 enum class piecetype : unsigned long {
@@ -37,3 +38,4 @@ int main()
 	cout << "salary: $" << anEmployee.salary << endl;
 	return 0;
 }
+*/
